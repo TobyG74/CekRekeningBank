@@ -20,6 +20,7 @@
 
 ```bash
 $ git clone https://github.com/TobyG74/CekRekeningBank.git
+$ cd CekRekeningBank
 $ npm install
 $ npm start
 or
