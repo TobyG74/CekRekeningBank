@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./ceknorekening.png" alt="s" width="500"/>
   
-# CEK NOMOR REKENING
+# CEK NOMOR REKENING BANK
   
 ---
 </div>
