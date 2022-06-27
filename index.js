@@ -122,7 +122,7 @@ async function cek_rekening() {
 •> Laporan Detail : 
   - Pelapor : ${data.data.laporanDetail[i].verificator.fullname}
   - Email Pelapor : ${data.data.laporanDetail[i].verificator.email}
-  - Tanggal Dibuat : ${new Date(data.data.laporanDetail.laporanDate).toLocaleDateString('id')}
+  - Tanggal Dibuat : ${new Date(data.data.laporanDetail[i].laporanDate).toLocaleDateString('id')}
   - Kronologi : ${data.data.laporanDetail[i].chronology}
   - Kerugian : ${data.data.laporanDetail[i].totalLoss}
   - Nama Tersangka : ${data.data.laporanDetail[i].suspectName}
