@@ -1,0 +1,16 @@
+{
+    "name": "cek-nomor-rekening",
+    "description": "This is a tools to check reports on bank accounts",
+    "version": "1.0.0",
+    "main": "./index.js",
+    "license": "MIT",
+    "author": "Tobz",
+    "scripts": {
+        "start": "node ."
+    },
+    "dependencies": {
+        "axios": "0.27.2",
+        "cfonts": "^3.1.0",
+        "readline-sync": "1.4.10"
+    }
+}
