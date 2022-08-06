@@ -8,8 +8,8 @@
 
 ## Description
 
-- [ ID ] Ini adalah sebuah tools untuk mengecek laporan pada rekening bank
-- [ EN ] This is a tools to cek reports on bank accounts
+- [ ID ] Ini adalah sebuah tools untuk mengecek laporan pada rekening bank.
+- [ EN ] This is a tools to cek reports on bank accounts.
 
 ## Installation
 
