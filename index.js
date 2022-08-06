@@ -29,7 +29,6 @@ async function start() {
         await cek_rekening()
     }
 }
-start()
 
 async function list_bank() {
     Axios("https://cekrekening.id/master/bank?enablePage=0&bankName=", { method: "GET" })
@@ -151,3 +150,5 @@ async function cek_rekening() {
 async function delay (ms) {
 	return new Promise((resolve, reject) => setTimeout(resolve, ms))
 }
+
+start()
